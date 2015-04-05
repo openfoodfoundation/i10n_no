@@ -1,96 +1,96 @@
 # Norway counties.
 states_102:
-  name: Akershus	
-  abbr: AK	
+  name: Akershus
+  abbr: AK
   id: "102"
   country_id: "152"
 states_109:
   name: Aust-Agder
-  abbr: AA 
+  abbr: AA
   id: "109"
   country_id: "152"
 states_106:
-  name: Buskerud	
-  abbr: BU	
+  name: Buskerud
+  abbr: BU
   id: "106"
   country_id: "152"
 states_120:
-  name: Finnmark	
-  abbr: FI	
+  name: Finnmark
+  abbr: FI
   id: "120"
   country_id: "152"
 states_104:
-  name: Hedmark	
-  abbr: HE	
+  name: Hedmark
+  abbr: HE
   id: "104"
   country_id: "152"
 states_112:
-  name: Hordaland	
-  abbr: HO	
+  name: Hordaland
+  abbr: HO
   id: "112"
   country_id: "152"
 states_115:
-  name: Møre og Romsdal	
-  abbr: MR	
+  name: Møre og Romsdal
+  abbr: MR
   id: "115"
   country_id: "152"
 states_118:
-  name: Nordland	
-  abbr: NO	
+  name: Nordland
+  abbr: "NO"
   id: "118"
   country_id: "152"
 states_117:
-  name: Nord-Trøndelag	
-  abbr: NT	
+  name: Nord-Trøndelag
+  abbr: NT
   id: "117"
   country_id: "152"
 states_105:
-  name: Oppland	
-  abbr: OP	
+  name: Oppland
+  abbr: OP
   id: "105"
   country_id: "152"
 states_103:
-  name: Oslo	
-  abbr: OS	
+  name: Oslo
+  abbr: OS
   id: "103"
   country_id: "152"
 states_101:
-  name: Østfold	
-  abbr: OF	
+  name: Østfold
+  abbr: OF
   id: "101"
   country_id: "152"
 states_111:
-  name: Rogaland	
-  abbr: RO	
+  name: Rogaland
+  abbr: RO
   id: "111"
   country_id: "152"
 states_114:
-  name: Sogn og Fjordane	
-  abbr: SF	
+  name: Sogn og Fjordane
+  abbr: SF
   id: "114"
   country_id: "152"
 states_116:
-  name: Sør-Trøndelag	
-  abbr: ST	
+  name: Sør-Trøndelag
+  abbr: ST
   id: "116"
   country_id: "152"
 states_108:
-  name: Telemark	
-  abbr: TE	
+  name: Telemark
+  abbr: TE
   id: "108"
   country_id: "152"
 states_119:
-  name: Troms	
-  abbr: TR	
+  name: Troms
+  abbr: TR
   id: "119"
   country_id: "152"
 states_110:
-  name: Vest-Agder	
-  abbr: VA	
+  name: Vest-Agder
+  abbr: VA
   id: "110"
   country_id: "152"
 states_107:
-  name: Vestfold	
-  abbr: VF	
+  name: Vestfold
+  abbr: VF
   id: "107"
   country_id: "152"
